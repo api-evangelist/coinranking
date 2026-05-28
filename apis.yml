@@ -1,0 +1,32 @@
+aid: coinranking
+name: CoinRanking
+description: "Live Cryptocurrency data"
+url: https://developers.coinranking.com/api/documentation
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: CoinRanking
+    description: "Live Cryptocurrency data"
+    humanURL: https://developers.coinranking.com/api/documentation
+    baseURL: https://developers.coinranking.com/api/documentation
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://developers.coinranking.com/api/documentation
+common:
+  - type: Website
+    url: https://developers.coinranking.com/api/documentation
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
