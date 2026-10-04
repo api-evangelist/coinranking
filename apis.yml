@@ -39,7 +39,6 @@ apis:
   - name: CoinRanking
     description: "Live Cryptocurrency data"
     humanURL: https://developers.coinranking.com/api/documentation
-    baseURL: https://developers.coinranking.com/api/documentation
     tags:
       - Cryptocurrency
     properties:
